@@ -1,0 +1,2 @@
+# Get the user-data of an ec2 instance
+curl 169.254.169.254/latest/user-data
